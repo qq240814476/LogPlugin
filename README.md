@@ -1,2 +1,2 @@
 # LogPlugin
-wheel of webpack plugin
+记录webpack编译时间
